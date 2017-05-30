@@ -14,7 +14,7 @@
 		3D41A5EF1ED7C57000CA8023 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D41A5ED1ED7C57000CA8023 /* LaunchScreen.storyboard */; };
 		3D41A5F71ED7F38400CA8023 /* FirstPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D41A5F61ED7F38400CA8023 /* FirstPage.swift */; };
 		3D41A5F91ED7F3A000CA8023 /* SecondPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D41A5F81ED7F3A000CA8023 /* SecondPage.swift */; };
-		3DB292151ED85A9D006CEE5E /* airports.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3DB292141ED85A9D006CEE5E /* airports.plist */; };
+		3DB292171EDD19AD006CEE5E /* airports.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3DB292161EDD19AD006CEE5E /* airports.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +27,7 @@
 		3D41A5F01ED7C57000CA8023 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D41A5F61ED7F38400CA8023 /* FirstPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstPage.swift; sourceTree = "<group>"; };
 		3D41A5F81ED7F3A000CA8023 /* SecondPage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondPage.swift; sourceTree = "<group>"; };
-		3DB292141ED85A9D006CEE5E /* airports.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = airports.plist; path = ../../airports.plist; sourceTree = "<group>"; };
+		3DB292161EDD19AD006CEE5E /* airports.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = airports.plist; path = ../../../Desktop/airports.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 				3D41A5EB1ED7C57000CA8023 /* Assets.xcassets */,
 				3D41A5ED1ED7C57000CA8023 /* LaunchScreen.storyboard */,
 				3D41A5F01ED7C57000CA8023 /* Info.plist */,
-				3DB292141ED85A9D006CEE5E /* airports.plist */,
+				3DB292161EDD19AD006CEE5E /* airports.plist */,
 				3D41A5F61ED7F38400CA8023 /* FirstPage.swift */,
 				3D41A5F81ED7F3A000CA8023 /* SecondPage.swift */,
 				3D41A5E61ED7C57000CA8023 /* ViewController.swift */,
@@ -133,7 +133,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3DB292151ED85A9D006CEE5E /* airports.plist in Resources */,
+				3DB292171EDD19AD006CEE5E /* airports.plist in Resources */,
 				3D41A5EF1ED7C57000CA8023 /* LaunchScreen.storyboard in Resources */,
 				3D41A5EC1ED7C57000CA8023 /* Assets.xcassets in Resources */,
 				3D41A5EA1ED7C57000CA8023 /* Main.storyboard in Resources */,
